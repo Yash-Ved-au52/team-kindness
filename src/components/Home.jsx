@@ -152,7 +152,7 @@ const Home = () => {
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-2xl p-6 text-center shadow-lg">
               <h3 className="font-bold text-lg mb-2">होम्योपैथी परामर्श</h3>
-              <p className="text-indigo-100">समय: सायं 6 बजे से</p>
+              {/* <p className="text-indigo-100">समय: सायं 6 बजे से</p> */}
               <p className="text-indigo-50 text-sm mt-2">
                 अनुभवी होम्योपैथी चिकित्सक द्वारा
               </p>
